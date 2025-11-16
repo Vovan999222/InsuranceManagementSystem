@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "8abe0a59-598f-4d5d-b213-a919d2bff0e7",
+    "Username": "manager",
+    "Password": "manager123",
+    "Role": 2,
+    "AssociatedClientId": "",
+    "AssociatedAgentId": "",
+    "CreatedAt": "2025-11-14T17:14:03.404685+02:00",
+    "IsActive": true
+  },
+  {
+    "Id": "9dad6c93-6c5c-45e6-8fed-8d1695bd0008",
+    "Username": "agent1",
+    "Password": "agent123",
+    "Role": 1,
+    "AssociatedClientId": "",
+    "AssociatedAgentId": "db482f0e-4311-4489-a6d0-5bb66d4ff0f8",
+    "CreatedAt": "2025-11-14T17:14:03.4124753+02:00",
+    "IsActive": true
+  },
+  {
+    "Id": "574d2cf2-86e7-4d39-8df7-1e18b53e75b3",
+    "Username": "client1",
+    "Password": "client123",
+    "Role": 0,
+    "AssociatedClientId": "0b3ff146-fe16-4b90-a1ec-cc044c5771a7",
+    "AssociatedAgentId": "",
+    "CreatedAt": "2025-11-14T17:14:03.4124865+02:00",
+    "IsActive": true
+  },
+  {
+    "Id": "83ca45ba-d615-4017-93ff-01a144466b5c",
+    "Username": "anonimous",
+    "Password": "75c6ef294edf918",
+    "Role": 1,
+    "AssociatedClientId": "",
+    "AssociatedAgentId": "",
+    "CreatedAt": "2025-11-16T20:34:11.6686606+02:00",
+    "IsActive": true
+  }
+]
